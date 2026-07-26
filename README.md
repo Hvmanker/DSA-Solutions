@@ -138,6 +138,7 @@ Happy Coding 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Hvmanker/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Hvmanker/DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,10 +147,15 @@ Happy Coding 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hvmanker/DSA-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Hvmanker/DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Hvmanker/DSA-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hvmanker/DSA-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Hvmanker/DSA-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Hvmanker/DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
