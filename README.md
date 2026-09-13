@@ -144,6 +144,7 @@ Happy Coding 🚀
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Hvmanker/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Hvmanker/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -187,4 +188,16 @@ Happy Coding 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hvmanker/DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Hvmanker/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Hvmanker/DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Hvmanker/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Hvmanker/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Hvmanker/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
