@@ -207,6 +207,7 @@ Happy Coding 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/Hvmanker/DSA-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Hvmanker/DSA-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -217,6 +218,7 @@ Happy Coding 🚀
 | [0100-same-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Hvmanker/DSA-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -227,6 +229,7 @@ Happy Coding 🚀
 | [0100-same-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hvmanker/DSA-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Hvmanker/DSA-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -235,6 +238,7 @@ Happy Coding 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/Hvmanker/DSA-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Hvmanker/DSA-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
