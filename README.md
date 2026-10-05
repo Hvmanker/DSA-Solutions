@@ -194,6 +194,7 @@ Happy Coding 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Hvmanker/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Hvmanker/DSA-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +212,7 @@ Happy Coding 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hvmanker/DSA-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Hvmanker/DSA-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hvmanker/DSA-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hvmanker/DSA-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -225,6 +227,7 @@ Happy Coding 🚀
 | [0100-same-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Hvmanker/DSA-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hvmanker/DSA-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hvmanker/DSA-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -250,6 +253,7 @@ Happy Coding 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hvmanker/DSA-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Hvmanker/DSA-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hvmanker/DSA-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hvmanker/DSA-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -260,6 +264,7 @@ Happy Coding 🚀
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Hvmanker/DSA-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
