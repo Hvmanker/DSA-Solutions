@@ -179,6 +179,7 @@ Happy Coding 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hvmanker/DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Hvmanker/DSA-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hvmanker/DSA-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hvmanker/DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Hvmanker/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -199,6 +200,7 @@ Happy Coding 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Hvmanker/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Hvmanker/DSA-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
