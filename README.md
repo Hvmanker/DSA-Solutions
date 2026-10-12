@@ -145,6 +145,7 @@ Happy Coding 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Hvmanker/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/Hvmanker/DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Hvmanker/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@ Happy Coding 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/Hvmanker/DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Hvmanker/DSA-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Hvmanker/DSA-Solutions/tree/main/0046-permutations/) | Medium |
+| [0079-word-search](https://github.com/Hvmanker/DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Hvmanker/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hvmanker/DSA-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hvmanker/DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -204,6 +206,7 @@ Happy Coding 🚀
 | [0022-generate-parentheses](https://github.com/Hvmanker/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Hvmanker/DSA-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Hvmanker/DSA-Solutions/tree/main/0046-permutations/) | Medium |
+| [0079-word-search](https://github.com/Hvmanker/DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Hvmanker/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -229,6 +232,7 @@ Happy Coding 🚀
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Hvmanker/DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hvmanker/DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -302,4 +306,8 @@ Happy Coding 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/Hvmanker/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Hvmanker/DSA-Solutions/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
