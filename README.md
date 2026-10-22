@@ -147,6 +147,7 @@ Happy Coding 🚀
 | [0022-generate-parentheses](https://github.com/Hvmanker/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/Hvmanker/DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Hvmanker/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Hvmanker/DSA-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +201,7 @@ Happy Coding 🚀
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Hvmanker/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hvmanker/DSA-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Hvmanker/DSA-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +210,7 @@ Happy Coding 🚀
 | [0046-permutations](https://github.com/Hvmanker/DSA-Solutions/tree/main/0046-permutations/) | Medium |
 | [0079-word-search](https://github.com/Hvmanker/DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Hvmanker/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Hvmanker/DSA-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
