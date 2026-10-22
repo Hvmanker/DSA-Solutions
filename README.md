@@ -185,6 +185,7 @@ Happy Coding 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/Hvmanker/DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Hvmanker/DSA-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Hvmanker/DSA-Solutions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Hvmanker/DSA-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/Hvmanker/DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Hvmanker/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hvmanker/DSA-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -211,6 +212,7 @@ Happy Coding 🚀
 | [0022-generate-parentheses](https://github.com/Hvmanker/DSA-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Hvmanker/DSA-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Hvmanker/DSA-Solutions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Hvmanker/DSA-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/Hvmanker/DSA-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Hvmanker/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Hvmanker/DSA-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -316,4 +318,8 @@ Happy Coding 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Hvmanker/DSA-Solutions/tree/main/0079-word-search/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Hvmanker/DSA-Solutions/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
